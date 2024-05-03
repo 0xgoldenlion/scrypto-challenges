@@ -1,1 +1,0 @@
-resim publish . --package-address $package

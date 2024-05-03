@@ -1,8 +1,0 @@
-# Reads the withdraw partner fee (in basis points) of a fund.
-#
-# Parameters:
-#
-# component: address of the Radfolio instance to use
-CALL_METHOD
-   ComponentAddress("${component}")
-   "read_withdraw_fee_partner_bps";

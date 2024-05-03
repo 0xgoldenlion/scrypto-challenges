@@ -1,2 +1,0 @@
-clear
-scrypto test -- --nocapture

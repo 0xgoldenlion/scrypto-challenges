@@ -1,8 +1,0 @@
-# Reads the list of current investment vehicles
-#
-# Parameters:
-#
-# component: address of the Radfolio instance to use
-CALL_METHOD
-   ComponentAddress("${component}")
-   "read_investment_vehicles";

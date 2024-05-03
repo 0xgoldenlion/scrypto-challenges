@@ -1,2 +1,0 @@
-CALL_FUNCTION PackageAddress("${PACKAGE}") "DegenFi" "new";
-

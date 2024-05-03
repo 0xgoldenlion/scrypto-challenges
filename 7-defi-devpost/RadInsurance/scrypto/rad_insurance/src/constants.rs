@@ -1,1 +1,0 @@
-pub(crate) const NUMBER_OF_SECONDS_PER_YEAR: i64 = 31536000;

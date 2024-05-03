@@ -1,1 +1,0 @@
-resim show $component
